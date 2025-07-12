@@ -66,7 +66,3 @@ MIT License. Feel free to use, fork, and build upon this project!
 
 ---
 
-## ⭐ Show Some Love
-
-If you found this useful, drop a ⭐ on the repo — it means a lot 💙
-
